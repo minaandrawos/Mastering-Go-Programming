@@ -1,0 +1,128 @@
+Hydra main.go:15: Starting Hydra web service
+Hydra rooms.go:66: Starting chat room HydraChat
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:61334
+Hydra rooms.go:32: Adding client 127.0.0.1:61334
+Hydra clients.go:25: Anonymous216:RandomMessage 237
+Hydra clients.go:25: Anonymous216:RandomMessage 157
+Hydra clients.go:25: Anonymous216:RandomMessage 227
+Hydra clients.go:25: Anonymous216:RandomMessage 157
+Hydra clients.go:25: Anonymous216:RandomMessage 14
+Hydra clients.go:25: Anonymous216:RandomMessage 283
+Hydra clients.go:25: Anonymous216:RandomMessage 375
+Hydra clients.go:25: Anonymous216:RandomMessage 192
+Hydra clients.go:25: Anonymous216:RandomMessage 280
+Hydra clients.go:25: Anonymous216:RandomMessage 231
+Hydra clients.go:25: Anonymous216:RandomMessage 91
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:62433
+Hydra rooms.go:32: Adding client 127.0.0.1:62433
+Hydra clients.go:25: Anonymous307:RandomMessage 380
+Hydra clients.go:25: Anonymous307:RandomMessage 330
+Hydra clients.go:25: Anonymous307:RandomMessage 394
+Hydra clients.go:25: Anonymous307:RandomMessage 5
+Hydra clients.go:25: Anonymous307:RandomMessage 141
+Hydra clients.go:25: Anonymous307:RandomMessage 380
+Hydra clients.go:25: Anonymous307:RandomMessage 94
+Hydra clients.go:25: Anonymous307:RandomMessage 10
+Hydra clients.go:25: Anonymous307:RandomMessage 270
+Hydra clients.go:25: Anonymous307:RandomMessage 251
+Hydra clients.go:25: Anonymous307:RandomMessage 301
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:65521
+Hydra rooms.go:32: Adding client 127.0.0.1:65521
+Hydra clients.go:25: Anonymous365:RandomMessage 272
+Hydra clients.go:25: Anonymous365:RandomMessage 19
+Hydra clients.go:25: Anonymous365:RandomMessage 317
+Hydra clients.go:25: Anonymous365:RandomMessage 24
+Hydra clients.go:25: Anonymous365:RandomMessage 343
+Hydra clients.go:25: Anonymous365:RandomMessage 11
+Hydra clients.go:25: Anonymous365:RandomMessage 48
+Hydra clients.go:25: Anonymous365:RandomMessage 114
+Hydra clients.go:25: Anonymous365:RandomMessage 144
+Hydra clients.go:25: Anonymous365:RandomMessage 112
+Hydra clients.go:25: Anonymous365:RandomMessage 111
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:50358
+Hydra rooms.go:32: Adding client 127.0.0.1:50358
+Hydra clients.go:25: Anonymous51:RandomMessage 11
+Hydra clients.go:25: Anonymous51:RandomMessage 312
+Hydra clients.go:25: Anonymous51:RandomMessage 187
+Hydra clients.go:25: Anonymous51:RandomMessage 138
+Hydra clients.go:25: Anonymous51:RandomMessage 189
+Hydra clients.go:25: Anonymous51:RandomMessage 227
+Hydra clients.go:25: Anonymous51:RandomMessage 170
+Hydra clients.go:25: Anonymous51:RandomMessage 210
+Hydra clients.go:25: Anonymous51:RandomMessage 50
+Hydra clients.go:25: Anonymous51:RandomMessage 283
+Hydra clients.go:25: Anonymous51:RandomMessage 351
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:53307
+Hydra rooms.go:32: Adding client 127.0.0.1:53307
+Hydra clients.go:25: Anonymous332:RandomMessage 60
+Hydra clients.go:25: Anonymous332:RandomMessage 255
+Hydra clients.go:25: Anonymous332:RandomMessage 134
+Hydra clients.go:25: Anonymous332:RandomMessage 115
+Hydra clients.go:25: Anonymous332:RandomMessage 89
+Hydra clients.go:25: Anonymous332:RandomMessage 331
+Hydra clients.go:25: Anonymous332:RandomMessage 337
+Hydra clients.go:25: Anonymous332:RandomMessage 184
+Hydra clients.go:25: Anonymous332:RandomMessage 137
+Hydra clients.go:25: Anonymous332:RandomMessage 391
+Hydra clients.go:25: Anonymous332:RandomMessage 140
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:58049
+Hydra rooms.go:32: Adding client 127.0.0.1:58049
+Hydra clients.go:25: Anonymous363:RandomMessage 317
+Hydra clients.go:25: Anonymous363:RandomMessage 242
+Hydra clients.go:25: Anonymous363:RandomMessage 311
+Hydra clients.go:25: Anonymous363:RandomMessage 283
+Hydra clients.go:25: Anonymous363:RandomMessage 37
+Hydra clients.go:25: Anonymous363:RandomMessage 271
+Hydra clients.go:25: Anonymous363:RandomMessage 49
+Hydra clients.go:25: Anonymous363:RandomMessage 341
+Hydra clients.go:25: Anonymous363:RandomMessage 185
+Hydra clients.go:25: Anonymous363:RandomMessage 208
+Hydra clients.go:25: Anonymous363:RandomMessage 186
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:63924
+Hydra rooms.go:32: Adding client 127.0.0.1:63924
+Hydra clients.go:25: Anonymous257:RandomMessage 13
+Hydra clients.go:25: Anonymous257:RandomMessage 162
+Hydra clients.go:25: Anonymous257:RandomMessage 214
+Hydra clients.go:25: Anonymous257:RandomMessage 328
+Hydra clients.go:25: Anonymous257:RandomMessage 231
+Hydra clients.go:25: Anonymous257:RandomMessage 42
+Hydra clients.go:25: Anonymous257:RandomMessage 195
+Hydra clients.go:25: Anonymous257:RandomMessage 160
+Hydra clients.go:25: Anonymous257:RandomMessage 78
+Hydra clients.go:25: Anonymous257:RandomMessage 101
+Hydra clients.go:25: Anonymous257:RandomMessage 392
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:64539
+Hydra rooms.go:32: Adding client 127.0.0.1:64539
+Hydra clients.go:25: Anonymous153:RandomMessage 3
+Hydra clients.go:25: Anonymous153:RandomMessage 196
+Hydra clients.go:25: Anonymous153:RandomMessage 62
+Hydra clients.go:25: Anonymous153:RandomMessage 33
+Hydra clients.go:25: Anonymous153:RandomMessage 64
+Hydra clients.go:25: Anonymous153:RandomMessage 11
+Hydra clients.go:25: Anonymous153:RandomMessage 307
+Hydra clients.go:25: Anonymous153:RandomMessage 241
+Hydra clients.go:25: Anonymous153:RandomMessage 124
+Hydra clients.go:25: Anonymous153:RandomMessage 45
+Hydra clients.go:25: Anonymous153:RandomMessage 196
+Hydra rooms.go:51: Removing client 
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:52770
+Hydra rooms.go:32: Adding client 127.0.0.1:52770
+Hydra clients.go:25: Anonymous253:RandomMessage 269
+Hydra clients.go:25: Anonymous253:RandomMessage 171
+Hydra clients.go:25: Anonymous253:RandomMessage 99
+Hydra clients.go:25: Anonymous253:RandomMessage 366
+Hydra clients.go:25: Anonymous253:RandomMessage 37
+Hydra clients.go:25: Anonymous253:RandomMessage 242
+Hydra clients.go:25: Anonymous253:RandomMessage 357
+Hydra clients.go:25: Anonymous253:RandomMessage 269
+Hydra clients.go:25: Anonymous253:RandomMessage 40
+Hydra clients.go:25: Anonymous253:RandomMessage 271
+Hydra clients.go:25: Anonymous253:RandomMessage 90
+Hydra rooms.go:51: Removing client 

@@ -1,0 +1,12 @@
+ <ship>
+   <ShipInfo>
+     <ShipID>1</ShipID>
+     <ShipClass>Fighter</ShipClass>
+   </ShipInfo>
+   <member name="Jaro" clearace="10">
+     <codes>
+       <code>ADA</code>
+       <code>LAL</code>
+     </codes>
+   </member>
+ </ship>

@@ -1,0 +1,6 @@
+<configuration>
+<testString>hello world</testString>
+<testBool>true</testBool>
+<testFloat>3.5</testFloat>
+<TestInt>4</TestInt>
+</configuration>

@@ -1,0 +1,16 @@
+syntax = "proto3";
+package protobuff;
+
+message Ship{
+    string shipname = 1;
+    string CaptainName = 2;
+
+    message CrewMember{
+        int32 id = 1;
+        string name = 2;
+        int32 secClearance = 3;
+        string position = 4;
+    }
+
+    repeated CrewMember Crew = 3;
+}
