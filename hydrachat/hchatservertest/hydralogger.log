@@ -1,0 +1,5 @@
+Hydra rooms.go:62: Starting chat room HydraChat
+Hydra hydrachat.go:50: Received request from client 127.0.0.1:50986
+Hydra clients.go:25: Mina:Hello
+Hydra rooms.go:47: Removing client 
+Hydra hydrachat.go:40: Error accepting connection from chat client accept tcp 127.0.0.1:2300: use of closed network connection
